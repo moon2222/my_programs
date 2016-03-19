@@ -1,0 +1,18 @@
+
+i)      area filling (using Scan-Line Polygon-Fill, 4-connected Boundary-Fill,
+8-connected Boundary-Fill, Scanline-based Boundary-Fill, 4-connected
+Flood-Fill, 8-connected Flood-Fill and Scanline-based Flood-Fill
+algorithms);
+
+ii)     2D transformations (generalized translation, rotation, scaling,
+reflection and shear in homogeneous coordinate system);
+
+iii)    line clipping (using basic, Cohen-Sutherland, Liang-Barsky and
+Nicholl-Lee-Nicholl line clipping algorithms for rectangular clipping
+window in standard orientation);
+
+iv)     line clipping (above algorithms for rectangular clipping window in
+non-standard orientation: take 4 vertex coordinates from end-user).
+
+{Use “delay” function inside each loop-iteration appropriately to
+visualize the working of each graphics algorithm.}

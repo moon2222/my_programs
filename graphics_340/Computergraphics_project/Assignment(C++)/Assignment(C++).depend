@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1453832121 source:e:\computergraphics_project\assignment(c++)\main.cpp
+	"Input.h"
+
+1453832109 e:\computergraphics_project\assignment(c++)\input.h
+	<iostream>
+	<graphics.h>
+	<cmath>
+
+1266115814 c:\program files (x86)\codeblocks-ep\sdk\winbgim\include\graphics.h
+	<windows.h>
+	<limits.h>
+	<sstream>
+
